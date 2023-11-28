@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I aspire to be a full-stack developer. 
+- 🌱 I’m currently learning on Front-end web development. So I keep practicing how to build front-end projects 🖥
+
 <!--
 **Jawsafe/Jawsafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
