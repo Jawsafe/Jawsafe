@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I aspire to be a full-stack developer. 
+- 🔭 I aspire to be a Web developer. 
 - 🌱 I’m currently learning on Front-end web development. So I keep practicing how to build front-end projects for now 🖥
 
 <!--
